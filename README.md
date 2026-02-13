@@ -32,8 +32,8 @@ Visit **[alfredang.github.io/sudoku](https://alfredang.github.io/sudoku/)**
 Run the game instantly using Docker:
 
 ```bash
-docker pull alfredang/sudoku
-docker run -d -p 8080:80 alfredang/sudoku
+docker pull tertiaryinfotech/sudoku
+docker run -d -p 8080:80 tertiaryinfotech/sudoku
 ```
 Then visit **[http://localhost:8080](http://localhost:8080)** in your browser.
 
